@@ -52,7 +52,7 @@ your approval. The installer intentionally refuses automatic replacement.
 
 ## What You Get
 
-- Up to three important developments, not three stories just to fill a quota.
+- ~Three important developments in AI, relevant today.
 - Optional, bounded experiments and practical Try/Track/Review decisions.
 - Practitioner pain points and possible business opportunities, labeled as signals.
 - Relevant provider/open-model changes, economic evidence and public-interest news.
@@ -76,22 +76,6 @@ your host's supported scheduler, confirm time/timezone and destination, and chec
 for an existing job before saving anything. Runtime/computer availability depends
 on the scheduler. A brief can suggest tools, experiments and events; it does not
 authorize installations, registrations, spending, outbound messages or submissions.
-
-## Moving From The Engineering Library
-
-This skill previously lived in `mathemagica/skills` under
-`market_intelligence/ai-tech-morning-brief/`. Its discovery name is unchanged.
-Use this repository for future updates; do not install two copies with the same
-name. If an existing copy or symlink is found, compare and back it up before an
-approved replacement. Update any scheduled job's old skill path to
-`skills/ai-tech-morning-brief/SKILL.md` within this checkout, preserving its other
-settings. Do not duplicate or reschedule the job just because the skill moved.
-
-The engineering library is now focused on
-[product development and software architecture](https://github.com/mathemagica/skills).
-This repository starts with a clean, generalized snapshot rather than importing
-the former repository's commit history. Historical commits in the original
-repository are not rewritten by this migration.
 
 ## Privacy And Validation
 
